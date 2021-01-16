@@ -1,0 +1,10 @@
+.two-columns__paragrath {
+  margin: 0 0 30px 0;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+}
+
+.two-columns__paragrath:last-child {
+  margin: 0;
+}
