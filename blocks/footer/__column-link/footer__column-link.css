@@ -1,8 +1,9 @@
 .footer__column-link {
   color:#fff;
   text-decoration: none;
+  transition: color .5s ease-in-out .2s;
 }
 
-.footer__column-link:hover {
+/* .footer__column-link:hover {
   color: #2f80ed;
-}
+} */
