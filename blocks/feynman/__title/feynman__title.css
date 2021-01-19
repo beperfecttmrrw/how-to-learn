@@ -5,6 +5,7 @@
   margin: 0;
   align-self: center;
   text-align: center;
-  width: 648px;
+  max-width: 648px;
+  width: 100%;
   z-index: 2;
 }
